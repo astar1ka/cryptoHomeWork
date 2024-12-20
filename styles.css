@@ -1,0 +1,12 @@
+textarea{
+    width: 65vw;
+}
+
+#mainScreen{
+    display: flex;
+    flex-direction: column;
+}
+
+.warning{
+    color: red;
+}
